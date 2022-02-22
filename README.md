@@ -4,20 +4,12 @@ file create thanks http://builder.swillkb.com/ and http://www.keyboard-layout-ed
 
 #project
 
-Top
-![immagine](https://user-images.githubusercontent.com/11942345/154278077-43016379-ea7a-4faa-886d-2d5cbc2bf8b7.png)
+Top<br>
 
-Switch
-![immagine](https://user-images.githubusercontent.com/11942345/154278653-299bc1b0-2805-42f4-8399-f8b372b390be.png)
+![Screenshot 2022-02-22 at 14-10-56 Plate Case Builder - swillkb](https://user-images.githubusercontent.com/11942345/155139528-78e854d5-e26d-448e-966d-728541d5d04a.png)
 
-![immagine](https://user-images.githubusercontent.com/11942345/154278765-77ece151-dfb7-4b6b-9159-331f3dd8db25.png)
-
-![immagine](https://user-images.githubusercontent.com/11942345/154278837-a0611b0f-b145-4890-b0a6-07fb5e79ca04.png)
-
-![immagine](https://user-images.githubusercontent.com/11942345/154278940-8e0eeb22-657c-4b31-9026-271dc1d2254f.png)
-
-
-
-
-
-
+Plate<br>
+![Screenshot 2022-02-22 at 14-10-34 Plate Case Builder - swillkb](https://user-images.githubusercontent.com/11942345/155139357-d7780039-0a75-422f-a4cb-1a572992f7f7.png)
+![Screenshot 2022-02-22 at 14-10-42 Plate Case Builder - swillkb](https://user-images.githubusercontent.com/11942345/155139448-02ec9de0-2535-45eb-85a1-2bf891bcc33d.png)
+![Screenshot 2022-02-22 at 14-10-49 Plate Case Builder - swillkb](https://user-images.githubusercontent.com/11942345/155139484-189042f7-f9c6-4fa2-a9a7-2fbb2b6ac7da.png)
+![Screenshot 2022-02-22 at 14-11-04 Plate Case Builder - swillkb](https://user-images.githubusercontent.com/11942345/155139550-446c7c9e-f572-4bab-a406-fa46c835ece7.png)
