@@ -2,6 +2,7 @@
 A Stacked Acrylic Case laser cut for custom Happy Hacking Keyboard, 
 file create thanks http://builder.swillkb.com/ and http://www.keyboard-layout-editor.com/
 firmwre create thanks https://kbfirmware.com/ 
+Amoeba thanks https://khor.store/products/amoeba-silgne-switch-pbc
 
 # File
 use file .hex to install firmware into microcontroller with qmk toolbox
